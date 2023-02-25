@@ -43,7 +43,8 @@ a{
   padding: 4px;
 }
 .logo a:hover{
-    color: grey;
+    color: yellow;
+    transition: 1s;
 }
 nav{
     margin-right: 200px;
@@ -54,14 +55,16 @@ nav li{
    
 }
 nav a:hover{
-    color: grey;
+    color: yellow;
+    transition: 1s;
 }
 .social-links li{
     padding: 0px 0px 0 30px;
     
 }
 .social-links a:hover{
-    color: grey;
+    color: yellow;
+    transition: 1s;
 }
 .container{
     display: flex;
