@@ -43,7 +43,7 @@ a{
   padding: 4px;
 }
 .logo a:hover{
-    color: yellow;
+    color: red;
     transition: 1s;
 }
 nav{
